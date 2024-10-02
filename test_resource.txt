@@ -4,4 +4,4 @@ hello world!
 
 update
 
-Show GIT PUSH command
+Show GIT PUSH
