@@ -2,6 +2,6 @@ header
 
 hello world!
 
-update END.
+update
 
-Show GIT PUSH command.
+Show GIT PUSH command
